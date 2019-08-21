@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
-ruby '2.1.2'
+ruby '2.5.1'
 
-gem 'rails', '~> 4.1.4'
+gem 'rails'
 
 gem 'pg'
 
-gem 'sass-rails', '~> 4.0.3'
+gem 'sass-rails'
 gem 'jquery-rails'
 gem 'coffee-rails'
 gem 'uglifier'
